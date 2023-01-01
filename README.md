@@ -1,16 +1,8 @@
-### Hi there 👋
+Hi there 👋
+I am Sukanta, a data Engineer from 🇮🇳   passionate about developing production-ready applications with 7+ years of professional onsite working experience. 🎯
 
-<!--
-**Sukanta6/sukanta6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly work with Python, Alteryx, Tableau, pysql.
 
-Here are some ideas to get you started:
+  ![image](https://user-images.githubusercontent.com/93188519/210177227-f57b9a9e-9746-4223-abeb-40c2b328a256.png)
+   
 
-- 🔭 I’m currently working on ...JPMC
-- 🌱 I’m currently learning ...Devops
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
