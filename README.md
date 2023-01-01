@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sukanta-biswas-72890a22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sukanta-biswas-72890a22" height="30" width="40" /></a>
 <a href="https://instagram.com/sukanta6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sukanta6" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/decoder7341" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="decoder" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/Decoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="decoder" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
